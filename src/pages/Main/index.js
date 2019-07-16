@@ -16,7 +16,7 @@ export default function Main() {
     <Container>
       <Header />
       <Content>
-        {/* <Menu/> */}
+        <Menu/>
         <Card>
           <CardHeader>
             <Icon name="attach-money" size={28} color="#666"/>
